@@ -1,0 +1,10 @@
+@media(min-width:870px){
+    .side-btn{
+        display: none;
+    }
+}
+@media(max-width:870px){
+    .nav-menu{
+        display: none ;
+    }
+}
