@@ -8,6 +8,13 @@ img{
     user-select: none;
 }
 
+.scroll
+{
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+}
+
 body::selection
 {
     background-color: #fd696eca;
